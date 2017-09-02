@@ -1,3 +1,6 @@
+
+//dynamic programming coding problem
+
 int Solution::minPathSum(vector<vector<int> > &A) {
     // Do not write main() function.
     // Do not read input, instead use the arguments to the function.
